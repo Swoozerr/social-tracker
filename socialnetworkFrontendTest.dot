@@ -1,0 +1,12 @@
+graph socialnetworkFrontendTest {
+    "user37" -- "user86";
+    "user0" -- "user78";
+    "user37" -- "user37";
+    "user0" -- "user13";
+    "user0" -- "user1";
+    "user17" -- "user64";
+    "user0" -- "user86";
+    "user0" -- "user37";
+    "user26" -- "user8";
+    "user0" -- "user26";
+}
